@@ -1,4 +1,4 @@
-package kdvHesaplama;
+package patikaOdevleri_Hafta1;
 
 import java.util.Scanner;
 
