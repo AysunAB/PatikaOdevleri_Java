@@ -27,7 +27,7 @@ Toplam Tutar : 21.68 TL*/
 
     public static void main(String[] args) {
 
-        double armut,elma,domates,muz,patlican,armutKilo,elmaKilo,domatesKilo,muzKilo,patlicanKilo,toplamTutar;
+       /* double armut,elma,domates,muz,patlican,armutKilo,elmaKilo,domatesKilo,muzKilo,patlicanKilo,toplamTutar;
 
         armut=12.14;
         elma=13.67;
@@ -48,7 +48,9 @@ Toplam Tutar : 21.68 TL*/
         patlicanKilo= scan.nextDouble();
 
         toplamTutar=(armut*armutKilo)+(elma*elmaKilo)+(domates*domatesKilo)+(muz*muzKilo)+(patlican*patlicanKilo);
-        System.out.print("Toplam tutar :"+ toplamTutar);
+        System.out.print("Toplam tutar :"+ toplamTutar);*/
+
+
 
 
 
