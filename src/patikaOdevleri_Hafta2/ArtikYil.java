@@ -26,7 +26,7 @@ yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
 
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+       Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen yil giriniz");
         int yil= scan.nextInt();
 
@@ -43,5 +43,9 @@ yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
         } else {
             System.out.println("Artik yil");
         }
+
+
+
     }
+
 }
