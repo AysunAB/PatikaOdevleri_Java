@@ -1,4 +1,4 @@
-package patikaOdevleri_Hafta2;
+package patikaOdevleri_Hafta3;
 
 import java.util.Scanner;
 
