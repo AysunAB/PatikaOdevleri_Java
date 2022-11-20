@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Course mat = new Course("Matematik", "MAT101", "MAT");
+       /* Course mat = new Course("Matematik", "MAT101", "MAT");
         Course fizik = new Course("Fizik", "FZK101", "FZK");
         Course kimya = new Course("Kimya", "KMY101", "KMY");
 
@@ -29,7 +29,16 @@ public class Main {
         Students s3 = new Students("Hayta İsmail", 4, "221121312", mat, fizik, kimya);
         s3.addBulkExamNote(50,20,40);
         s3.verbalNote(60, 100, 50);
-        s3.isPass();
+        s3.isPass();*/
 
-    }
+        int[] scores = new int[10];
+        scores = new int[3];
+        scores = new int[]{215, 234, 218, 189, 221, 290};
+
+        for (int score : scores) {
+            System.out.print(score + "  ");
+        }
+
+
+        }
 }

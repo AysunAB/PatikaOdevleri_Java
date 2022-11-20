@@ -20,7 +20,7 @@ public class Ring {
             while (f1.health > 0 && f2.health > 0) {
                 System.out.println("======== YENİ ROUND ===========");
                 int starter = Math.round((float) Math.random());
-                System.out.println("Oyuna baslayan: " + starter;
+                System.out.println("Oyuna baslayan: " + starter);
 
 
                 if ((starter == 0)) {
@@ -67,5 +67,7 @@ public class Ring {
         System.out.println("------------");
         System.out.println(f1.name + " Kalan Can \t:" + f1.health);
         System.out.println(f2.name + " Kalan Can \t:" + f2.health);
+
+   }
     }
-}
+
