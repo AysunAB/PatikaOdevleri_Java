@@ -2,6 +2,13 @@ package patikaOdevleri_Hafta4;
 
 public class DizidekiElemanlarinHarmonikOrtalamasi {
 
+
+        /*Odev
+        Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
+
+        Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi*/
+
+
     public static void main(String[] args) {
 
         double harmonicAverage = 0;
